@@ -56,6 +56,11 @@ section {
     padding: 0.25em 0;
 }
 
+button {
+    all: unset;
+    width: 100%;
+}
+
 .heading {
     display: flex;
     padding-bottom: 1em;
